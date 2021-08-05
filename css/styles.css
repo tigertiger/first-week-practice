@@ -83,8 +83,18 @@ padding: 0% 0% 30px 0%;
 }
 
 .mainContent {
+  width:75%;
   box-sizing: border-box;
   border: 2px solid #000;
   padding: 10px;
-  margin:5px;
+  margin:50px 12%;
+  display:inline-block;
+}
+
+.shh {
+  display:none;
+}
+
+.highlight {
+  background-color: darkseagreen;
 }
