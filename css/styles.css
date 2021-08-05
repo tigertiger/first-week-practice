@@ -1,3 +1,56 @@
 body {
   background: wheat;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 33pt;
+  font-weight:520;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+p {
+  text-transform: lowercase;
+}
+
+.header {
+  box-sizing: border-box;
+  width:80%;
+  margin:auto;
+  padding: 30px 0px;
+}
+
+.header p {
+padding: 0% 0% 30px 0%;
+}
+
+.container {
+  padding:30px 0% 0% 0%;
+}
+
+.column {
+  width:31%;
+  float:right;
+  box-sizing: border-box;
+  padding:0% 1%;
+  margin: 0% 1%;
+  overflow: hidden;
+  text-align: center;
+}
+
+.column img {
+  width:80%;
+  padding: 0% 1%;
+  margin:auto;
+}
+
+.column a {
+  text-decoration:none;
+  color:#000;
 }
