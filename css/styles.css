@@ -54,3 +54,37 @@ padding: 0% 0% 30px 0%;
   text-decoration:none;
   color:#000;
 }
+
+.navContainer {
+  width:60%;
+  box-sizing: border-box;
+  margin-left: 29%;
+  padding:0%;
+}
+
+.navContainer a {
+  text-decoration: none;
+  color:#000;
+}
+
+.navContainer a :hover {
+  text-decoration: underline;
+  color:rgb(0, 56, 42);
+}
+
+.navObj {
+  float:left;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  width: 200px;
+  margin: 10px;
+  padding:0% 10px;
+  text-align: center;
+}
+
+.mainContent {
+  box-sizing: border-box;
+  border: 2px solid #000;
+  padding: 10px;
+  margin:5px;
+}

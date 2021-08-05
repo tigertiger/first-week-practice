@@ -25,7 +25,8 @@ _This website is built with HTML and CSS. It was created to practice HTML and CS
 
 ## License
 
-_[GPL](https://opensource.org/licenses/gpl-license)_
+_[GPL](https://opensource.org/licenses/gpl-license)_  
+
 Copyright (c) 2021, Melissa Schatz-Miller
 
 ## Contact Information
